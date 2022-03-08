@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+}
+#tbody{
+    margin: 0px 0px;
+    background-image: linear-gradient(coral,lightblue);
+}
+
+#fejléc{
+    font-size: 35px;
+    color: lightblue;
+    height:60px;
+    background-image: linear-gradient(lightcoral,blue);
+    line-height: 60px;
+}
+
+#logo{
+    height:35px;
+    margin-top: 5px;
+}
+
+#bejelentkezes{
+    color: lightblue;
+    float: right;
+    background-image: linear-gradient(lightcoral,blue);
+}
+
+#fejléc a{
+    margin: 0px 10px;
+}
+
+#szoveg1{
+    margin: 5px;
+    font-size: 3rem;
+}
+
+#regisztracio{
+    color: lightblue;
+    float: right;
+    background-image: linear-gradient(lightcoral,blue);
+}
+
+#rolunk{
+    color: lightblue;
+    float: right;
+    background-image: linear-gradient(lightcoral,blue);
+}
+
+#adatok{
+    margin: 0px 0px;
+    background-image: linear-gradient(coral,lightblue);
+}
+
+#tbody img{
+    width: 400px;
+    height: 15em;
+    margin: 5em;
+}
+
+#Miskolc{
+    color: lightblue;
+    float: right;
+    background-image: linear-gradient(lightcoral,blue);
+}
+
+#miskolc_szoveg{
+    font-size: 1.5em;
+    margin: 0px 25px;
+}
+
+#mkepek img{
+    width: 400px;
+    height: 15em;
+    margin: 5em;
+}
+
+#hatterszin{
+    background-image: linear-gradient(coral,rgb(177, 173, 230));
+}
+
+#Budapest{
+    color: lightblue;
+    float: right;
+    background-image: linear-gradient(lightcoral,blue);
+}
+
+#bkepek img{
+    width: 400px;
+    height: 15em;
+    margin: 5em;
+}
+
+#budapest_szoveg{
+    font-size: 1.5em;
+    margin: 0px 25px;
+}
